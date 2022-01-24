@@ -3,12 +3,30 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//		System.out.println("hi nama ku irsyad");
-//		Nomorsatu.hitungsampeseratus();
-//		Nomordua.segitigagenapharis();
-//		NomorTiga.rapihinDataTrailer();
-//		System.out.println("-------------------------------------------------pg");
-//		Nomorsatupg.satuaja();
+		System.out.println("hi nama ku irsyad");
+		Nomorsatu.hitungsampeseratus();
+		Nomordua.segitigagenapharis();
+		NomorTiga.rapihinDataTrailer();
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 //		int a = 10;
 //		int b = 2;
@@ -35,20 +53,20 @@ public class Main {
 //		}
 		
 	
-		int a = 10;
-		int b = 50;
-		
-		do {
-			if(jumlah(a, b)>30) {
-				kurang(a, b);
-			}else {
-				kali(a, b);
-				
-			}
-			
-			b = kurang(5, b);
-			
-		} while (b>10);
+//		int a = 10;
+//		int b = 50;
+//		
+//		do {
+//			if(jumlah(a, b)>30) {
+//				kurang(a, b);
+//			}else {
+//				kali(a, b);
+//				
+//			}
+//			
+//			b = kurang(5, b);
+//			
+//		} while (b>10);
 		
 		
 		
